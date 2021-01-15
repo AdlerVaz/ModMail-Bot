@@ -158,7 +158,6 @@ client.on("message", async message => {
           .setAuthor('MODMAIL BOT', client.user.displayAvatarURL())
           .setColor("GREEN")
           
-        .setDescription("This bot is made by CTK WARRIOR, You can remove credits :D")
         .addField(prefix + "setup", "Setup the modmail system(This is not for multiple server.)", true)
   
         .addField(prefix + "open", 'Let you open the mail to contact anyone with his ID', true)
