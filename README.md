@@ -4,4 +4,4 @@
   </a>
 </div>
 
-### If you are you need support on the codes feel free to join the support server!
+### If you d support on the codes feel free to join the support server!
